@@ -3,7 +3,7 @@
 ## How to Start, Stop and Restart
 
 ```shell
-$ python Demon.py start
-$ python Demon.py stop
-$ python Demon.py restart
+$ python app.py start
+$ python app.py stop
+$ python app.py restart
 ```
